@@ -23,13 +23,13 @@ import java.text.DecimalFormat;
 			epf = 0.05;
 		
 			//user to enter the input
-			System.out.println("Enter the name                                                     : "); 
+			System.out.println("Enter the name: "); 
 			this.employeeName = input.nextLine();
 		
-			System.out.println("Enter the age                                                      : "); 
+			System.out.println("Enter the age: "); 
 			this.age = input.nextInt();
 		
-			System.out.println("Enter the phone number:\n[Ex: 0123456789]                          : "); 
+			System.out.println("Enter the phone number:\n[Ex: 0123456789]: "); 
 			this.phoneNumber = input.nextInt();
 		
 			System.out.println("Enter the position:\n[0 for clerk, 1 for supervisor, 2 for manager]: "); 
