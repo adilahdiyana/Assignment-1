@@ -1,6 +1,6 @@
 package Assignment1;
 
-public class VehicleType { //class of VehicleType
+public class ClothingType { //class of ClothingType
 	
 private String material, brand; //declaring type and brand variables
 	
@@ -38,6 +38,6 @@ private String material, brand; //declaring type and brand variables
 				+ "\nRent price per day: RM 153, RM 253, RM 353";
 	}
 	
-} //end class of VehicleType
+} //end class of ClothingType
 
 
